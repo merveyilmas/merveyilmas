@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merveyilmas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="merveyilmas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merveyilmas&show_icons=true&theme=dark&locale=en" alt="merveyilmas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merveyilmas&show_icons=true&theme=dracula&locale=en" alt="merveyilmas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merveyilmas&theme=dark" alt="merveyilmas" /></p>
