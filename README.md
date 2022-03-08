@@ -1,4 +1,4 @@
-<h1 align="center">Helloo⚡, I'm Merve Yılmaz</h1>
+<h1 align="center">Hellooo ⚡, I'm Merve Yılmaz</h1>
 <h3 align="center">I am a Computer Enginner 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=000000&style=plastic" alt="merveyilmas" /> </p>
@@ -6,6 +6,8 @@
 - 💬 Ask me about **what do you want?**
 
 - 📫 How to reach me **yilmaz.67@outlook.com**
+
+- 📄 Know about my experiences [https://www.kariyer.net/profil](https://www.kariyer.net/profil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merveyilmas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="merveyilmas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merveyilmas&show_icons=true&theme=dracula&locale=en" alt="merveyilmas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merveyilmas&theme=dark" alt="merveyilmas" /></p>
