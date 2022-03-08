@@ -1,7 +1,7 @@
 <h1 align="center">Helloo⚡, I'm Merve Yılmaz</h1>
 <h3 align="center">I am a Computer Enginner 🌱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=8dd9ec&style=plastic" alt="merveyilmas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=000000&style=plastic" alt="merveyilmas" /> </p>
 
 - 💬 Ask me about **what do you want?**
 
