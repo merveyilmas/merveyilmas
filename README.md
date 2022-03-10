@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=000000&style=plastic" alt="merveyilmas" /> </p>
 
-- 💬 Ask me about **what do you want?**
+- 💬 Ask me about **What do you want?**
 
 - 📫 How to reach me **yilmaz.67@outlook.com**
 
