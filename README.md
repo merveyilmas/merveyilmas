@@ -3,16 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=000000&style=plastic" alt="merveyilmas" /> </p>
 
-- 💬 Ask me about **What do you want?**
+- 💬 Ask me about **what do you want?**
 
-- 📫 How to reach me [http://www.merveyilmaz.tk/](http://www.merveyilmaz.tk/)
+- 📫 How to reach me **yilmaz.67@outlook.com**
 
 - 📄 Know about my experiences [https://www.kariyer.net/profil](https://www.kariyer.net/profil)
 
+- 🌱 My personal website **http://www.merveyilmaz.tk/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/merve-yilmaz-ab06691b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merve-yilmaz-ab06691b5" height="30" width="40" /></a>
 <a href="https://twitter.com/meryilmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meryilmas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/merve-yilmaz-ab06691b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merve-yilmaz-ab06691b5" height="30" width="40" /></a>
 <a href="https://instagram.com/meryi̇lmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryi̇lmas" height="30" width="40" /></a>
 </p>
 
