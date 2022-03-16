@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.kariyer.net/profil](https://www.kariyer.net/profil)
 
-- 🌱 My personal website **http://www.merveyilmaz.tk/**
+- 🌱 My personel website **http://www.merveyilmaz.tk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
