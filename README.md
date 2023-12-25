@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yilmaz.67@outlook.com**
 
-- 📄 My personel website [http://www.merveyilmaz.tk/](http://www.merveyilmaz.tk/)
+- 📄 My personel website [http://merveyilmaz.online/](http://merveyilmaz.online/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
