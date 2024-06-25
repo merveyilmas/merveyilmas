@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Merve Yılmaz</h1>
-<h3 align="center">I am a Software Developer🌱</h3>
+<h3 align="center">I am a Software Engineer🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=0e75b6&style=flat-square" alt="merveyilmas" /> </p>
 
