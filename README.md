@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveyilmas&label=Profile%20views&color=0e75b6&style=flat-square" alt="merveyilmas" /> </p>
 
-- 🔭 Know about my experiences **https://www.kariyer.net/profil**
+- 🔭 Know about my experiences **https://www.kariyer.net/ozgecmis/merveyilmaz8676**
 
 - 🌱 I’m currently learning **SpringBoot, React**
 
